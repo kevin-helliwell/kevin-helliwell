@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @redacteur!
-- 🌱 Currently learning MERN stack development. 
-- ✅ Open to learning other languages/frameworks.
+- 👋 Hi, I’m redacteur!
+- 🏃 Currently learning MERN stack development. 
+- ⏫ Open to learning other languages/frameworks.
 
 
 <!---
