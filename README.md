@@ -1,5 +1,7 @@
-- 💻 JavaScript, HTML/CSS, Sass, Python, Java, MongoDB, Mongoose ODM, Express.js, React.js, Node.js, SQL
-- ⏫ Open to learning other languages/frameworks.
+- 💻 I work on gaming-specific projects that provide some level of useful functionality (usually).
+- 📶 I also like to learn and experiment with new programming languages this way.
+- 📝 Programming languages (so far): Python, JavaScript
+- 📰 Languages/frameworks/databases I've worked with: React, Django, Flask, Node, MongoDB, SQL
 
 
 <!---
