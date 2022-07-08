@@ -1,7 +1,8 @@
 - 💻 I work on gaming-specific projects that provide some level of useful functionality (usually).
 - 📶 I also like to learn and experiment with new programming languages this way.
-- 📝 Programming languages (so far): Python, JavaScript
-- 📰 Languages/frameworks/databases I've worked with: React, Django, Flask, Node, MongoDB, SQL
+- 📝 Programming languages: Python, TypeScript/JavaScript, Go
+- 📰 Frameworks: React, Django
+- ✈️ Databases: MongoDB, MySQL, SQLite/Flask
 
 
 <!---
