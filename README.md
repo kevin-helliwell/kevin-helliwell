@@ -1,6 +1,6 @@
 - 💻 I work on gaming-specific projects that provide some level of useful functionality (usually).
 - 📶 I also like to learn and experiment with new programming languages this way.
-- 📝 Programming languages: Python, TypeScript/JavaScript, Go
+- 📝 Languages: Python, TypeScript/JavaScript, Go
 - 📰 Frameworks: React, Django
 - ✈️ Databases: MongoDB, MySQL, SQLite/Flask
 
