@@ -2,7 +2,7 @@
 
 # A bit about me
 
-I love live music, hiking, animals, rainy days and coding (I mainly work in front-end development with React) 🖥️
+I love live music, hiking, animals, rainy days and coding (I mostly work in front-end development with React) 🖥️
 
 
 # Some of the tools I use
