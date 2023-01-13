@@ -1,4 +1,4 @@
-# 👋 Heya! I'm Kevin!
+# 👋 Hey! I'm Kevin!
 
 # A bit about me
 
