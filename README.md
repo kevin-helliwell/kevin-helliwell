@@ -2,10 +2,9 @@
 
 # A bit about me
 
-I love live music, hiking, animals, rainy days and coding (I mostly work in front-end development with React) 🖥️
+I love live music, hiking, animals, rainy days and coding. 
 
-🌱 I’m currently learning **Rust, TypeScript, and C#/.NET**
-
+I work in full-stack web development 🖥️
 
 # Some of the tools I use
 
