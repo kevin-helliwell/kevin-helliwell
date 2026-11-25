@@ -13,14 +13,6 @@ I started as an intern in 2022, became a tech lead in under two years, and now o
 
 Most of my work lives in private client repositories, so the green squares tell you more than the pinned repos do.
 
-## Public projects
-
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [next-bun-starter](https://github.com/kevin-helliwell/next-bun-starter) | A starter template for new web apps, with sign-in and a database already wired up ([live demo](https://next-bun-starter.vercel.app/)) | Next.js, Bun, Prisma, Clerk |
-| [rust-notes-app](https://github.com/kevin-helliwell/rust-notes-app) | A full-stack notes app written entirely in Rust | Leptos, Axum, SQLx, PostgreSQL |
-| [astro-blog](https://github.com/kevin-helliwell/astro-blog) | A fast static blog deployed on GitHub Pages | Astro, Tailwind CSS |
-
 ## Tools I use
 
 **Day to day:** TypeScript, Next.js, React, Node.js, Python, PostgreSQL, Prisma, Tailwind CSS
