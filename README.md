@@ -11,7 +11,7 @@ I started as an intern in 2022, became a tech lead in under two years, and now o
 - **Look after apps after launch**: triage production issues, add staging environments and make releases safer
 - **Lead and mentor**: I've reviewed 500+ pull requests from 50+ developers, many of them interns in their first role
 
-Most of my work lives in private client repositories, so the green squares tell you more than the pinned repos do.
+Most of my work lives in private client repositories, so the green squares tell the story.
 
 ## Tools I use
 
